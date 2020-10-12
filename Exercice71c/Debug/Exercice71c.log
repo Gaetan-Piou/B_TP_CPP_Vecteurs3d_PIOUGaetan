@@ -1,0 +1,5 @@
+﻿  main.cpp
+  vecteur3d.cpp
+  Génération de code en cours...
+D:\Z Seven\Gros Travaux LUDUS\Exercices du 2020-10-07\Exercice71c\vecteur3d.cpp(79): warning C4172: retourne l'adresse d'une variable locale ou : vectNorm temporaire
+  Exercice71c.vcxproj -> D:\Z Seven\Gros Travaux LUDUS\Exercices du 2020-10-07\Exercice69a\Debug\Exercice71c.exe

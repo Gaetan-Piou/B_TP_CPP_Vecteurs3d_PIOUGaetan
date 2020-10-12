@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(449,5): warning MSB8003: la propriété WindowsSDKDir n'est pas définie. Certains outils de build sont introuvables.
+LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'kernel32.lib'
