@@ -1,3 +1,4 @@
-*.exe;
-*.ilk;
-*.pdb;
+*.exe
+*.ilk
+*.pdb
+*.obj

@@ -1,0 +1,3 @@
+﻿  vecteur_3d.cpp
+main.obj : error LNK2019: symbole externe non résolu "public: float & __cdecl vecteur3d::operator[](int)" (??Avecteur3d@@QEAAAEAMH@Z) référencé dans la fonction main
+D:\Z Seven\Gros Travaux LUDUS\Exercices du 2020-10-07\B_TP_CPP_Vecteurs3d_PIOUGaetan\x64\Debug\Exercices84-92.exe : fatal error LNK1120: 1 externes non résolus
